@@ -1,0 +1,73 @@
+body {
+    margin: 0;
+    border: 0;
+}
+
+h1 {
+    font-size: 25px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(113, 29, 29);
+}
+
+.container {
+    margin: 100px;
+    border: 2px solid rgb(209, 143, 62);
+    border-radius: 15px;
+    background-color: rgb(253, 232, 207);
+}
+
+.main-cartoon {
+    margin: 25px;
+    border: 2px solid rgb(209, 143, 62);
+    border-radius: 15px;
+    background-color: rgb(138, 119, 95);
+    padding-left: 80px;
+    padding-right:80px;
+
+    display: flex;
+    flex-direction: row;
+
+
+}
+
+.elemento-cartoon{
+    margin: 25px;
+    border: 1px solid rosybrown;
+
+    
+}
+
+.tom-cartoon {
+    width: 340px;
+    height: 300;
+    border-radius: 15px;
+}
+
+.form-cartoon {
+    padding-top: 90px;
+    padding-left: 10px;
+    gap: 25px;
+}
+
+.box-cartoon {
+    width: 330px;
+    height: 18px;
+    font-size: 14px;
+    border: 1px solid rgb(31, 31, 11);
+    border-radius: 5px;
+    background-color: beige;
+}
+
+.btn-button {
+
+}
+
+.botao-cartoon {
+    width: 160px;
+    height: 24px;
+    color: rgb(0, 0, 0);
+    background-color: beige;
+    border-radius: 5px;
+    border: 1px solid beige
+}
+
